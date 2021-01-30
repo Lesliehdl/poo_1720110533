@@ -12,23 +12,23 @@ class Banco():
     computadoras = None
 
     def __init__(self):
-      print("Clase banco")
+        print("Clase banco")
 
 
     def entregar(self):
-        print("Metodo entregar dinero")
+     print("Metodo entregar dinero")
 
     def transacciones(self):
-        print("Metodo transacciones")
+     print("Metodo transacciones")
         
     def resolver(self):
-        print("Metodo resolver dudas")
+     print("Metodo resolver dudas")
 
     def tramite(self):
-        print("MEtodo tramite para obtener una tarjeta")
+     print("Metodo tramite para obtener una tarjeta")
 
     def consulta(self):
-        print("Metodo consulta de saldo")
+     print("Metodo consulta de saldo")
 
 
 BBVA = Banco()
